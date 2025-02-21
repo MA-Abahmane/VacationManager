@@ -1,0 +1,31 @@
+{
+  "admin": {
+    "username": "Admin1"
+  },
+  "requests": [
+    {
+      "id": "1740176004800",
+      "name": "Bob",
+      "startDate": "2025-02-21",
+      "endDate": "2025-02-28",
+      "reason": "derni rasi",
+      "status": "approved"
+    },
+    {
+      "id": "1740176061522",
+      "name": "Mike",
+      "startDate": "2025-02-28",
+      "endDate": "2041-10-22",
+      "reason": "taden7 adar",
+      "status": "declined"
+    },
+    {
+      "id": "1740176102475",
+      "name": "3li",
+      "startDate": "2025-02-21",
+      "endDate": "2025-02-27",
+      "reason": "ermi7 al m3lm",
+      "status": "declined"
+    }
+  ]
+}
